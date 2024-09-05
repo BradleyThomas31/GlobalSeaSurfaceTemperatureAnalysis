@@ -1,0 +1,7 @@
+P-value:	0.650667
+Equation:	Avg. SST = 0.0075724*Year of Year + 12.98
+
+Coefficients
+Term	        Value	      StdErr	    t-value	    p-value
+Year of Year	0.0075724	  0.0154965	  0.488654	  0.650667
+intercept	    12.98	      31.1196	    0.4171	    0.698018
