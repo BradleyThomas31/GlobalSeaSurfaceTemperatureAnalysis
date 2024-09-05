@@ -1,0 +1,7 @@
+P-value:	0.387808
+Equation:	Avg. SST (°C) = 0.0325358*Year of Year + -37.5023
+
+Coefficients
+Term	        Value	     StdErr	    t-value	   p-value
+Year of Year	0.0325358	 0.0336073 	0.968117	 0.387808
+intercept	    -37.5023	 67.4892	  -0.555679	 0.608044
