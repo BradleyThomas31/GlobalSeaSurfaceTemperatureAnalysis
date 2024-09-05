@@ -1,18 +1,7 @@
-A linear trend model is computed for average of SST (°C) given Year Year.
+P-value:	0.387808
+Equation:	Avg. SST (°C) = 0.0325358*Year of Year + -37.5023
 
-Model formula:	( Year of Year + intercept )
-Number of modeled observations:	6
-Number of filtered observations:	0
-Model degrees of freedom:	2
-Residual degrees of freedom (DF):	4
-SSE (sum squared error):	0.204625
-MSE (mean squared error):	0.0511563
-R-Squared:	0.390344
-Standard error:	0.226178
-p-value (significance):	0.184776
-
-Individual trend lines:
-Panes	Line	Coefficients
-Row	Column	p-value	DF	Term	Value	StdErr	t-value	p-value
-SST (°C)	Year of Year	0.184776	4	Year of Year	0.0294722	0.0184162	1.60034	0.184776
-	intercept	-31.3947	36.983	-0.848894	0.443757
+Coefficients
+Term	        Value	        StdErr	        t-value	        p-value
+Year of Year	0.0325358	0.0336073	0.968117	0.387808
+intercept	-37.5023	67.4892	        -0.555679	0.608044
